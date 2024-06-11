@@ -4,4 +4,5 @@ import 'feature/scene/view/StockQuotesView.dart';
 
 void main() {
   runApp(StockQuotesView());
+
 }
